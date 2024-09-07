@@ -9,6 +9,4 @@ docker run -d -p 8080:8080 -e DB_URL=leafy-postgres --network leafy-network --na
 docker logs -f leafy
 ###
 ####
-###
-####
-###
+
